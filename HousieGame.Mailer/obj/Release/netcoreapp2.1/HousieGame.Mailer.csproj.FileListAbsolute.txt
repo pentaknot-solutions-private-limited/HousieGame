@@ -1,0 +1,8 @@
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\bin\Release\netcoreapp2.1\HousieGame.Mailer.deps.json
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\bin\Release\netcoreapp2.1\HousieGame.Mailer.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\bin\Release\netcoreapp2.1\HousieGame.Mailer.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\obj\Release\netcoreapp2.1\HousieGame.Mailer.csproj.CoreCompileInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\obj\Release\netcoreapp2.1\HousieGame.Mailer.AssemblyInfoInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\obj\Release\netcoreapp2.1\HousieGame.Mailer.AssemblyInfo.cs
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\obj\Release\netcoreapp2.1\HousieGame.Mailer.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Mailer\obj\Release\netcoreapp2.1\HousieGame.Mailer.pdb

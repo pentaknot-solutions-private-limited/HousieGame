@@ -1,0 +1,16 @@
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.Encryption256AES.deps.json
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.Encryption256AES.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.Encryption256AES.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.AdminInfo.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.Connection.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.MatchDetails.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.AdminInfo.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.MatchDetails.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\bin\Debug\netcoreapp2.1\HousieGame.Connection.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\obj\Debug\netcoreapp2.1\HousieGame.Encryption256AES.csprojAssemblyReference.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\obj\Debug\netcoreapp2.1\HousieGame.Encryption256AES.csproj.CoreCompileInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\obj\Debug\netcoreapp2.1\HousieGame.Encryption256AES.AssemblyInfoInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\obj\Debug\netcoreapp2.1\HousieGame.Encryption256AES.AssemblyInfo.cs
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\obj\Debug\netcoreapp2.1\HousieGame.Encryption256AES.csproj.CopyComplete
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\obj\Debug\netcoreapp2.1\HousieGame.Encryption256AES.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Encryption256AES\obj\Debug\netcoreapp2.1\HousieGame.Encryption256AES.pdb

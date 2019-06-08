@@ -1,0 +1,6 @@
+D:\Housie\Dynamic\HousieGame\HousieGame.MatchPlayerRel\bin\Debug\netcoreapp2.1\HousieGame.MatchPlayerRel.deps.json
+D:\Housie\Dynamic\HousieGame\HousieGame.MatchPlayerRel\bin\Debug\netcoreapp2.1\HousieGame.MatchPlayerRel.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.MatchPlayerRel\obj\Debug\netcoreapp2.1\HousieGame.MatchPlayerRel.csprojAssemblyReference.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.MatchPlayerRel\obj\Debug\netcoreapp2.1\HousieGame.MatchPlayerRel.csproj.CoreCompileInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.MatchPlayerRel\obj\Debug\netcoreapp2.1\HousieGame.MatchPlayerRel.AssemblyInfoInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.MatchPlayerRel\obj\Debug\netcoreapp2.1\HousieGame.MatchPlayerRel.AssemblyInfo.cs

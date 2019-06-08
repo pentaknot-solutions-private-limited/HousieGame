@@ -1,0 +1,12 @@
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\bin\Debug\netcoreapp2.1\HousieGame.PlayerInfo.deps.json
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\bin\Debug\netcoreapp2.1\HousieGame.PlayerInfo.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\bin\Debug\netcoreapp2.1\HousieGame.PlayerInfo.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\bin\Debug\netcoreapp2.1\HousieGame.Connection.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\bin\Debug\netcoreapp2.1\HousieGame.Connection.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\obj\Debug\netcoreapp2.1\HousieGame.PlayerInfo.csproj.CoreCompileInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\obj\Debug\netcoreapp2.1\HousieGame.PlayerInfo.AssemblyInfoInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\obj\Debug\netcoreapp2.1\HousieGame.PlayerInfo.AssemblyInfo.cs
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\obj\Debug\netcoreapp2.1\HousieGame.PlayerInfo.csproj.CopyComplete
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\obj\Debug\netcoreapp2.1\HousieGame.PlayerInfo.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\obj\Debug\netcoreapp2.1\HousieGame.PlayerInfo.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.PlayerInfo\obj\Debug\netcoreapp2.1\HousieGame.PlayerInfo.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\bin\Release\netcoreapp2.1\HousieGame.Connection.deps.json
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\bin\Release\netcoreapp2.1\HousieGame.Connection.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\bin\Release\netcoreapp2.1\HousieGame.Connection.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\obj\Release\netcoreapp2.1\HousieGame.Connection.csproj.CoreCompileInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\obj\Release\netcoreapp2.1\HousieGame.Connection.AssemblyInfoInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\obj\Release\netcoreapp2.1\HousieGame.Connection.AssemblyInfo.cs
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\obj\Release\netcoreapp2.1\HousieGame.Connection.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Connection\obj\Release\netcoreapp2.1\HousieGame.Connection.pdb

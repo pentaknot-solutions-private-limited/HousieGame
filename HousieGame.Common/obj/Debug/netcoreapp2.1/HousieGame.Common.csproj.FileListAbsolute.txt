@@ -1,0 +1,12 @@
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\bin\Debug\netcoreapp2.1\HousieGame.Common.deps.json
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\bin\Debug\netcoreapp2.1\HousieGame.Common.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\bin\Debug\netcoreapp2.1\HousieGame.Common.pdb
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\obj\Debug\netcoreapp2.1\HousieGame.Common.csprojAssemblyReference.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\obj\Debug\netcoreapp2.1\HousieGame.Common.csproj.CoreCompileInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\obj\Debug\netcoreapp2.1\HousieGame.Common.AssemblyInfoInputs.cache
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\obj\Debug\netcoreapp2.1\HousieGame.Common.AssemblyInfo.cs
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\obj\Debug\netcoreapp2.1\HousieGame.Common.csproj.CopyComplete
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\obj\Debug\netcoreapp2.1\HousieGame.Common.dll
+D:\Housie\Dynamic\HousieGame\HousieGame.Common\obj\Debug\netcoreapp2.1\HousieGame.Common.pdb

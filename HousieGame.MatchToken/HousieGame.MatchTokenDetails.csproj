@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HousieGame.AdminInfo\HousieGame.AdminInfo.csproj" />
+    <ProjectReference Include="..\HousieGame.Common\HousieGame.Common.csproj" />
+    <ProjectReference Include="..\HousieGame.Connection\HousieGame.Connection.csproj" />
+    <ProjectReference Include="..\HousieGame.Encryption256AES\HousieGame.Encryption256AES.csproj" />
+    <ProjectReference Include="..\HousieGame.Mailer\HousieGame.Mailer.csproj" />
+    <ProjectReference Include="..\HousieGame.MatchDetails\HousieGame.MatchDetails.csproj" />
+    <ProjectReference Include="..\HousieGame.PlayerInfo\HousieGame.PlayerInfo.csproj" />
+  </ItemGroup>
+
+</Project>

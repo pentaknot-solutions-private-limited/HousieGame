@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\ticket\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CoreHtmlToImage" Version="1.0.5" />
+    <PackageReference Include="HtmlRenderer.Core" Version="1.5.0.6" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HousieGame.AdminInfo\HousieGame.AdminInfo.csproj" />
+    <ProjectReference Include="..\HousieGame.Encryption256AES\HousieGame.Encryption256AES.csproj" />
+    <ProjectReference Include="..\HousieGame.Mailer\HousieGame.Mailer.csproj" />
+    <ProjectReference Include="..\HousieGame.MatchDetails\HousieGame.MatchDetails.csproj" />
+    <ProjectReference Include="..\HousieGame.MatchToken\HousieGame.MatchTokenDetails.csproj" />
+    <ProjectReference Include="..\HousieGame.PlayerInfo\HousieGame.PlayerInfo.csproj" />
+  </ItemGroup>
+
+</Project>
